@@ -125,12 +125,7 @@
 
     <div class="container">
         <!-- Header: App Branding -->
-        <header>
-            <!-- Replace with your actual app icon URL or local path -->
-            <img src="https://placeholder.com" alt="App Icon" class="app-icon">
-            <h1>Your App Name</h1>
-            <p class="version">Version 1.0.0 Support</p>
-        </header>
+      
 
         <!-- Contact Section -->
         <div class="card">
