@@ -137,36 +137,19 @@
             <h2>Contact Support</h2>
             <p>Have a question, bug report, or feature request? We are here to help you.</p>
             <!-- Replace with your actual support email -->
-            <a href="mailto:support@://yourdomain.com" class="btn">Email Support</a>
+            <a href="mailto:gracelovestamara1@gmail.com" class="btn">Send an email to gracelovestamara1@gmail.com</a>
         </div>
 
         <!-- FAQ Section -->
-        <div class="card">
-            <h2>Frequently Asked Questions</h2>
-            
-            <div class="faq-item">
-                <div class="faq-question">How do I restore my purchases?</div>
-                <div class="faq-answer">Open the App Settings menu inside the app and tap "Restore Purchases." Ensure you are signed in with the same Apple ID used for the original purchase.</div>
-            </div>
-
-            <div class="faq-item">
-                <div class="faq-question">How do I request a refund?</div>
-                <div class="faq-answer">Apple processes all purchases and refunds directly. Please visit <a href="https://apple.com" target="_blank">://apple.com</a> to request a refund.</div>
-            </div>
-
-            <div class="faq-item">
-                <div class="faq-question">The app is crashing. What should I do?</div>
-                <div class="faq-answer">Please ensure you have updated to the latest version of iOS and the app. If the issue persists, contact us via the email link above with your device model.</div>
-            </div>
+        
         </div>
 
         <!-- Footer Links -->
         <footer>
             <!-- Keep these links updated or point them to your respective files -->
-            <p>© 2026 Your Name/Company. All rights reserved.</p>
+            <p>© 2026 Grace Iordanov. All rights reserved.</p>
             <p>
-                <a href="privacy.html">Privacy Policy</a> | 
-                <a href="terms.html">Terms of Service</a>
+                <a href="https://polyethical.github.io/PrivacyPolicyForRoboticsScouterApp/">Privacy Policy</a> | 
             </p>
         </footer>
     </div>
